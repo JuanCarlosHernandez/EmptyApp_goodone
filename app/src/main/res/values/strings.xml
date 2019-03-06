@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EmptyApp</string>
+    <string name="txtv_01">Hola mundo :)</string>
+    <string name="txtv_02">What´s up bitches :)</string>
+    <string name="btn_01">Go to...</string>
+    <string name="btn_02">Hello</string>
+    <string name="btn_03">Good Bye</string>
+</resources>
