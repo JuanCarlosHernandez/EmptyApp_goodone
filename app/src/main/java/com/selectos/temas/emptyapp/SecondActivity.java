@@ -3,6 +3,7 @@ package com.selectos.temas.emptyapp;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Toast;
 
 public class SecondActivity extends AppCompatActivity {
 
@@ -12,8 +13,8 @@ public class SecondActivity extends AppCompatActivity {
         setContentView(R.layout.activity_second);
     }
 
-    /*public onClickWave(View v)
+    public onClickWave(View v)
     {
-
-    }*/
+        Toast.makeText(this, "Hello my friend :)", Toast.LENGTH_SHORT).show();
+    }
 }
